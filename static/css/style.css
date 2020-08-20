@@ -75,12 +75,20 @@ i.fa-instagram {
     #segunda {
         margin-top: -10px;
     }
-
     .slide img{
-        max-width: 720px;
-        max-height: 520px;
+        max-width: 380px;
+        max-height: 218px;
+    
+    
+      }
+
+
   }
-}
+  .topo img{
+      max-width: 720px;
+      max-height: 420px;
+  }
+
 
 @media (min-width: 576px) and (max-width: 767.98px)  {
     .profile-card-2 {
@@ -134,6 +142,5 @@ i.fa-instagram {
     transition: all 0.7s ease-in-out;
     overflow: hidden;
   }
-
 
 
