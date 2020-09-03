@@ -54,7 +54,7 @@ i.fa-instagram {
         margin-top: -70px;
     }
     #segunda {
-        margin-top: -10px;
+        margin-top: 1px;
     }
     .slide img{
         max-width: 380px;
@@ -764,7 +764,8 @@ i.fa-instagram {
         margin-top: -70px;
     }
     #segunda {
-        margin-top: -10px;
+        margin-top: 0px;
+        margin-left: 0px;
     }
     .slide img{
         max-width: 380px;
