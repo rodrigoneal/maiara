@@ -1,7 +1,4 @@
-body{
-    background-image: url("../img/background.jpeg");
-    background-repeat: repeat;
-}
+
 i.fa-linkedin {
 color: #0077b5;
 }
@@ -57,13 +54,10 @@ i.fa-instagram {
         margin-top: 1px;
     }
     .slide img{
-        max-width: 380px;
-        max-height: 250px;
+        width: 480px;
+        height: 350px;
     }
-    .topo img{
-        max-width: 720px;
-        max-height: 420px;
-    }
+
 
     .sobre {
         max-width: 400px;
@@ -211,6 +205,7 @@ i.fa-instagram {
         top: 40%;
         width: 100%;
       }
+
     
     
   } 
@@ -768,8 +763,8 @@ i.fa-instagram {
         margin-left: 0px;
     }
     .slide img{
-        max-width: 380px;
-        max-height: 550px;
+        max-width: auto;
+        max-height: 720px;
     }
     .topo img{
         max-width: 720px;
