@@ -57,9 +57,7 @@ i.fa-instagram {
         width: 480px;
         height: 350px;
     }
-    #producao{
 
-    }
     #voluntaria{
         margin-top: -40px;
     }
@@ -458,8 +456,8 @@ i.fa-instagram {
         margin-top: -10px;
     }
     .slide img{
-        max-width: 380px;
-        max-height: 250px;
+        max-width: 950px;
+        max-height: 750px;
     }
     .topo img{
         max-width: 720px;
