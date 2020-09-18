@@ -47,15 +47,24 @@ i.fa-instagram {
     .profile-card-2:hover .profile-name {
         bottom: 80px;
     }
-    #primeira {
+    #coordenacao {
         margin-top: -70px;
     }
-    #segunda {
+    #producao {
         margin-top: 1px;
     }
     .slide img{
         width: 480px;
         height: 350px;
+    }
+    #producao{
+
+    }
+    #voluntaria{
+        margin-top: -40px;
+    }
+    #curiosidade{
+        margin-top: -50px;
     }
 
 
